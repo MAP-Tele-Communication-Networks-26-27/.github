@@ -29,3 +29,7 @@ Each student will have access to a private repository managed within this organi
 
 ### 2. Management with GitHub Projects (Kanban)
 We will use the organization's Kanban board to track the semester
+
+## Check out our course guides:
+* **[Git & GitHub Tutorial](https://github.com/MAP-Tele-Communication-Networks-26-27/tutorials/blob/main/git-tutorial.md)**
+* **[ns-3 Simulation Tutorial](https://github.com/MAP-Tele-Communication-Networks-26-27/tutorials/blob/main/ns3-tutorial.md)** *(Coming Soon)*

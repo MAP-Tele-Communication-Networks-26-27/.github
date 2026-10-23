@@ -32,4 +32,4 @@ We will use the organization's Kanban board to track the semester
 
 ## Check out our course guides:
 * **[Git & GitHub Tutorial](https://github.com/MAP-Tele-Communication-Networks-26-27/tutorials/blob/main/git-tutorial.md)**
-* **[ns-3 Simulation Tutorial](https://github.com/MAP-Tele-Communication-Networks-26-27/tutorials/blob/main/ns3-tutorial.md)** *(Coming Soon)*
+* **[ns-3 Simulation Tutorial](https://github.com/MAP-Tele-Communication-Networks-26-27/tutorials/blob/main/ns-3-tutorial.md)**
